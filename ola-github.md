@@ -1,4 +1,4 @@
-# Olá GitHub!
+# Olá GitHub Pull Requests!
 Este é um teste utilizando a interface visual do GitHub
 
 ## Objetivos
